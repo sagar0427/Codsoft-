@@ -9,7 +9,7 @@ int main()
     cout << "Welcome to the Simple calculator in C++\n";
     cout << "Enter the no's you want to do operation with\n";
 next1:
-    cout << "Firt no: ";
+    cout << "First no: ";
 
     cin >> a;
 next2:
